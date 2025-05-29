@@ -31,7 +31,7 @@ export const Assistant = () => {
                 <BreadcrumbSeparator className="hidden md:block" />
                 <BreadcrumbItem>
                   <BreadcrumbPage>
-                    OKKAY THAT'S ALL
+                    OKKAY THATS ALL
                   </BreadcrumbPage>
                 </BreadcrumbItem>
               </BreadcrumbList>
